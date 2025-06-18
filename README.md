@@ -117,7 +117,7 @@ requests
 
 ---
 
-## 👤 Author
+## 👥 Contributors
 
-**Julisa Delfin** MS in Data Science, DePaul University
-[LinkedIn](https://www.linkedin.com/in/julisadelfin/)
+- **Julisa Delfin** – MS Data Science, DePaul University
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julisadelfin/) 
